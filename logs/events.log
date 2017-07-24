@@ -1,0 +1,161 @@
+2017-07-23 21:42:39 INFO  TestCase:35 - Verify that quick links appear after click on input field
+2017-07-23 21:44:15 INFO  TestCase:35 - Verify that quick links appear after click on input field
+2017-07-23 21:51:03 INFO  TestCase:35 - Verify that quick links appear after click on input field
+2017-07-23 21:51:03 INFO  TestCase:38 - Verify that keywords and suggested products appear after entering one letter
+2017-07-23 21:51:04 INFO  TestCase:42 - Verify that keywords list contain 5 elements
+2017-07-23 21:51:04 INFO  TestCase:44 - Verify the background on hovered element
+2017-07-23 21:51:04 INFO  TestCase:47 - Verify click on search button
+2017-07-24 00:10:28 INFO  TestCase:57 - Verify clicking on sub category
+2017-07-24 00:10:43 INFO  TestCase:61 - Filter products by price
+2017-07-24 00:10:44 INFO  TestCase:65 - Verify the result list
+2017-07-24 00:10:45 INFO  TestCase:76 - PASSED
+2017-07-24 00:10:47 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:11:09 INFO  TestCase:36 - Verify that quick links appear after click on input field
+2017-07-24 00:11:10 INFO  TestCase:39 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 00:11:13 INFO  TestCase:43 - Verify that keywords list contain 5 elements
+2017-07-24 00:11:13 INFO  TestCase:45 - Verify the background on hovered element
+2017-07-24 00:11:13 INFO  TestCase:48 - Verify click on search button
+2017-07-24 00:11:18 INFO  TestCase:51 - PASSED
+2017-07-24 00:12:03 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:12:03 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:12:04 INFO  TestCase:88 - Close popup box
+2017-07-24 00:12:04 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:12:36 INFO  TestCase:57 - Verify clicking on sub category
+2017-07-24 00:12:40 INFO  TestCase:61 - Filter products by price
+2017-07-24 00:12:41 INFO  TestCase:65 - Verify the result list
+2017-07-24 00:12:42 INFO  TestCase:76 - PASSED
+2017-07-24 00:12:43 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:12:54 INFO  TestCase:36 - Verify that quick links appear after click on input field
+2017-07-24 00:12:55 INFO  TestCase:39 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 00:12:55 INFO  TestCase:43 - Verify that keywords list contain 5 elements
+2017-07-24 00:12:55 INFO  TestCase:45 - Verify the background on hovered element
+2017-07-24 00:12:55 INFO  TestCase:48 - Verify click on search button
+2017-07-24 00:12:58 INFO  TestCase:51 - PASSED
+2017-07-24 00:13:38 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:13:38 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:13:39 INFO  TestCase:88 - Close popup box
+2017-07-24 00:13:39 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:14:12 INFO  TestCase:57 - Verify clicking on sub category
+2017-07-24 00:14:16 INFO  TestCase:61 - Filter products by price
+2017-07-24 00:14:17 INFO  TestCase:65 - Verify the result list
+2017-07-24 00:14:18 INFO  TestCase:76 - PASSED
+2017-07-24 00:14:20 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:14:21 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:14:22 INFO  TestCase:88 - Close popup box
+2017-07-24 00:14:22 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:14:29 INFO  TestCase:36 - Verify that quick links appear after click on input field
+2017-07-24 00:14:30 INFO  TestCase:39 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 00:14:30 INFO  TestCase:43 - Verify that keywords list contain 5 elements
+2017-07-24 00:14:30 INFO  TestCase:45 - Verify the background on hovered element
+2017-07-24 00:14:30 INFO  TestCase:48 - Verify click on search button
+2017-07-24 00:14:33 INFO  TestCase:51 - PASSED
+2017-07-24 00:14:47 INFO  TestCase:57 - Verify clicking on sub category
+2017-07-24 00:14:51 INFO  TestCase:61 - Filter products by price
+2017-07-24 00:14:51 INFO  TestCase:65 - Verify the result list
+2017-07-24 00:14:52 INFO  TestCase:76 - PASSED
+2017-07-24 00:14:54 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:14:55 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:14:56 INFO  TestCase:88 - Close popup box
+2017-07-24 00:14:56 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:15:03 INFO  TestCase:36 - Verify that quick links appear after click on input field
+2017-07-24 00:15:03 INFO  TestCase:39 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 00:15:04 INFO  TestCase:43 - Verify that keywords list contain 5 elements
+2017-07-24 00:15:04 INFO  TestCase:45 - Verify the background on hovered element
+2017-07-24 00:15:04 INFO  TestCase:48 - Verify click on search button
+2017-07-24 00:15:07 INFO  TestCase:51 - PASSED
+2017-07-24 00:16:14 INFO  TestCase:57 - Verify clicking on sub category
+2017-07-24 00:16:17 INFO  TestCase:61 - Filter products by price
+2017-07-24 00:16:18 INFO  TestCase:65 - Verify the result list
+2017-07-24 00:16:19 INFO  TestCase:76 - PASSED
+2017-07-24 00:16:21 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:16:21 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:16:22 INFO  TestCase:88 - Close popup box
+2017-07-24 00:16:22 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:16:31 INFO  TestCase:36 - Verify that quick links appear after click on input field
+2017-07-24 00:16:31 INFO  TestCase:39 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 00:16:31 INFO  TestCase:43 - Verify that keywords list contain 5 elements
+2017-07-24 00:16:31 INFO  TestCase:45 - Verify the background on hovered element
+2017-07-24 00:16:31 INFO  TestCase:48 - Verify click on search button
+2017-07-24 00:16:34 INFO  TestCase:51 - PASSED
+2017-07-24 00:17:26 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:17:27 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:17:27 INFO  TestCase:88 - Close popup box
+2017-07-24 00:17:27 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:18:02 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:18:08 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:19:56 INFO  TestCase:88 - Close popup box
+2017-07-24 00:20:13 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:20:18 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:22:16 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:22:16 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:23:26 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:23:27 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:23:28 INFO  TestCase:88 - Close popup box
+2017-07-24 00:23:28 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:24:06 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:24:06 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:24:07 INFO  TestCase:88 - Close popup box
+2017-07-24 00:24:07 INFO  TestCase:91 - Verify user logged in
+2017-07-24 00:26:34 INFO  TestCase:81 - CLick on login button
+2017-07-24 00:26:38 INFO  TestCase:84 - Complete the login form
+2017-07-24 00:31:00 INFO  TestCase:88 - Close popup box
+2017-07-24 00:31:00 INFO  TestCase:91 - Verify user logged in
+2017-07-24 10:55:47 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:55:47 INFO  TestCase:81 - Complete the login form
+2017-07-24 10:55:48 INFO  TestCase:85 - Close popup box
+2017-07-24 10:55:48 INFO  TestCase:88 - Verify user logged in
+2017-07-24 10:56:31 INFO  TestCase:54 - Verify clicking on sub category
+2017-07-24 10:56:34 INFO  TestCase:58 - Filter products by price
+2017-07-24 10:56:34 INFO  TestCase:62 - Verify the result list
+2017-07-24 10:56:36 INFO  TestCase:73 - PASSED
+2017-07-24 10:56:38 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:56:46 INFO  TestCase:33 - Verify that quick links appear after click on input field
+2017-07-24 10:56:46 INFO  TestCase:36 - Verify that keywords and suggested products appear after entering one letter
+2017-07-24 10:56:47 INFO  TestCase:40 - Verify that keywords list contain 5 elements
+2017-07-24 10:56:47 INFO  TestCase:42 - Verify the background on hovered element
+2017-07-24 10:56:48 INFO  TestCase:45 - Verify click on search button
+2017-07-24 10:56:50 INFO  TestCase:48 - PASSED
+2017-07-24 10:57:31 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:57:31 INFO  TestCase:81 - Complete the login form
+2017-07-24 10:57:32 INFO  TestCase:85 - Close popup box
+2017-07-24 10:57:32 INFO  TestCase:88 - Verify user logged in
+2017-07-24 10:57:52 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:57:53 INFO  TestCase:81 - Complete the login form
+2017-07-24 10:57:53 INFO  TestCase:85 - Close popup box
+2017-07-24 10:57:53 INFO  TestCase:88 - Verify user logged in
+2017-07-24 10:58:47 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:58:47 INFO  TestCase:81 - Complete the login form
+2017-07-24 10:58:48 INFO  TestCase:85 - Close popup box
+2017-07-24 10:58:48 INFO  TestCase:88 - Verify user logged in
+2017-07-24 10:59:15 INFO  TestCase:78 - CLick on login button
+2017-07-24 10:59:15 INFO  TestCase:81 - Complete the login form
+2017-07-24 10:59:15 INFO  TestCase:85 - Close popup box
+2017-07-24 10:59:16 INFO  TestCase:88 - Verify user logged in
+2017-07-24 11:00:05 INFO  TestCase:78 - CLick on login button
+2017-07-24 11:00:07 INFO  TestCase:81 - Complete the login form
+2017-07-24 11:06:30 INFO  TestCase:85 - Close popup box
+2017-07-24 11:06:30 INFO  TestCase:88 - Verify user logged in
+2017-07-24 11:06:40 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:06:40 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:06:43 INFO  TestCase:87 - Close popup box
+2017-07-24 11:06:43 INFO  TestCase:90 - Verify user logged in
+2017-07-24 11:08:00 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:08:00 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:09:03 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:09:03 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:10:08 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:10:08 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:10:08 INFO  TestCase:86 - Close popup box
+2017-07-24 11:10:08 INFO  TestCase:89 - Verify user logged in
+2017-07-24 11:10:46 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:11:18 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:12:10 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:12:10 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:12:11 INFO  TestCase:86 - Close popup box
+2017-07-24 11:12:11 INFO  TestCase:89 - Verify user logged in
+2017-07-24 11:13:29 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:13:29 INFO  TestCase:82 - Complete the login form
+2017-07-24 11:13:30 INFO  TestCase:86 - Close popup box
+2017-07-24 11:13:30 INFO  TestCase:89 - Verify user logged in
+2017-07-24 11:15:07 INFO  TestCase:79 - CLick on login button
+2017-07-24 11:15:07 INFO  TestCase:82 - Complete the login form
