@@ -15,11 +15,8 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.url;
 
-/**
- * Created by Maryna on 21.07.2017.
- */
 public class TestCase {
-    public Logger LOG;
+    private Logger LOG;
 
     @BeforeMethod
     public void setupClass() {
@@ -63,14 +60,10 @@ public class TestCase {
         LOG.info("Verify the result list");
         String count = $(By.xpath("//*[@id='PriceFilters']//label[@for='Filter₴0-₴150']/..")).getAttribute("data-count");
         $$(".ga-product").shouldHave(CollectionCondition.size(Integer.parseInt(count)));
-        boolean result = true;
         ArrayList<String> list = (ArrayList<String>) $$(".ga-product .price>bdi").texts();
-        for (String el : list) {
-            double k = Double.parseDouble(el.replaceAll("[₴]", ""));
-            if (k > 150)
-                result = false;
+        if(list.stream().map(el->Double.parseDouble(el.replaceAll("[₴]", ""))).filter(el->el>150).count()>0){
+            Assert.fail("Not all products match the filter");
         }
-        Assert.assertTrue(result, "Not all products match the filter");
         LOG.info("PASSED");
     }
 
